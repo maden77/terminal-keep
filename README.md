@@ -1,6 +1,6 @@
-# Terminal Keep 📝
+# Terminal  📝
 
-Aplikasi catatan pribadi seperti Google Keep untuk terminal.
+Aplikasi catatan pribadi untuk terminal.
 
 Dibuat oleh: **maden77**
 
